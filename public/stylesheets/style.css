@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.spacing {
+  margin-bottom: 20px;
+}
+
+.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
