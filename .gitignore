@@ -3,7 +3,7 @@
 #.git
 #/node_modules/
 #typings
-#.gitignore
+.gitignore
 #.idea/
 #/app
 #typings.json
@@ -16,5 +16,4 @@
 .git
 /node_modules/
 .idea/
-/public/js/app/*
-/public/js/vendor/*
+
