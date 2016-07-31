@@ -16,5 +16,5 @@
 .git
 /node_modules/
 .idea/
-/public/js/*
-/public/vendor/*
+/public/js/app/*
+/public/js/vendor/*
